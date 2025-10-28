@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">👨‍🎓 22 años<br>🎓 Autodidacta y en constante formación<br>💜 Entusiasta de Frontend, UX y UI<br>💻 TSU en Sistemas Informáticos<br>🎨 Animador digital</p>
+<p align="left">👨‍🎓 23 años<br>🎓 Autodidacta y en constante formación<br>💜 Entusiasta de Frontend, UX y UI<br>💻 TSU en Sistemas Informáticos<br>🎨 Animador digital</p>
 
 ###
 
