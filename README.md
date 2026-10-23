@@ -1,33 +1,57 @@
-<h1 align="left">Hey 👋 Nice to see you!</h1>
+<h1>Hola, soy Adair Kevin 👋</h1>
 
-###
+**Diseñador y desarrollador UI/UX Front-end jr** · Fundador de **Mirai**, estudio de invitaciones digitales web.
 
-###
+Diseño interfaces que se sienten especiales desde el primer toque y las construyo yo mismo, del boceto al deploy. Desde mi estudio he entregado **más de 100 invitaciones web a clientes reales**: XV años, bodas, bautizos y baby showers, cada una con su propia identidad visual, animaciones y flujo de confirmación.
 
-<h2 align="left">About me.</h2>
+## Sobre mí
 
-###
+- 🎓 TSU en Sistemas Informáticos, autodidacta y en formación constante
+- 🎨 Animador digital: el movimiento es parte de cómo diseño
+- 📱 Mobile-first por convicción: mis usuarios abren todo desde el celular
+- 🧩 Me gusta pensar en sistemas: tokens de diseño, componentes y plantillas reutilizables
+- 🚀 Busco mi primer puesto como **UI/UX Designer / Front-end Developer jr**
 
-<p align="left">👨‍🎓 23 años<br>🎓 Autodidacta y en constante formación<br>💜 Entusiasta de Frontend, UX y UI<br>💻 TSU en Sistemas Informáticos<br>🎨 Animador digital</p>
+## Cómo trabajo
 
-###
+**Investigo → diseño → construyo → entrego.** Recojo la idea del cliente, armo moodboards en Pinterest y paletas en Adobe Color, defino el sistema visual, lo programo en HTML, CSS y JavaScript, y lo publico en Netlify. Organizo cada proyecto en Notion, con fechas de entrega y estatus.
 
-<h2 align="left">I code with</h2>
+## Proyectos destacados
 
-###
+| | Proyecto | Qué demuestra |
+|---|---|---|
+| <img src="https://raw.githubusercontent.com/AdairKevin/ModeloVogueV2/main/docs/mobile.png" width="90"> | [**Vogue XV Edition**](https://github.com/AdairKevin/ModeloVogueV2) | Dirección de arte editorial, sobre 3D interactivo, animación con `IntersectionObserver` |
+| <img src="https://raw.githubusercontent.com/AdairKevin/InvitacionBridgerton/main/docs/mobile.png" width="90"> | [**Bridgerton XV**](https://github.com/AdairKevin/InvitacionBridgerton) | Diseño temático, tema separado del layout |
+| <img src="https://raw.githubusercontent.com/AdairKevin/TemplateInvitaciones/main/docs/mobile.png" width="90"> | [**Template de Invitaciones**](https://github.com/AdairKevin/TemplateInvitaciones) | Design system con tokens y componentes reutilizables |
+| <img src="https://raw.githubusercontent.com/AdairKevin/CuponeraDigital/main/docs/mobile.png" width="90"> | [**Cuponera Digital**](https://github.com/AdairKevin/CuponeraDigital) | Flujo de UX con estados, modales accesibles y backend en Google Sheets |
+| <img src="https://raw.githubusercontent.com/AdairKevin/AdministradorBoletos/main/docs/mobile.png" width="90"> | [**Administrador de Invitados**](https://github.com/AdairKevin/AdministradorBoletos) | Herramienta interna: UI generada desde JSON, envío por WhatsApp |
+| <img src="https://raw.githubusercontent.com/AdairKevin/CotizadorCarpas/main/docs/mobile.png" width="90"> | [**Cotizador de Carpas**](https://github.com/AdairKevin/CotizadorCarpas) | Formulario de negocio, reglas de precios y desglose claro |
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-</div>
+## Herramientas
 
-###
+**Diseño:** Canva · Pinterest · Adobe Color
+**Código:** HTML5 · CSS3 · JavaScript · VS Code · Git y GitHub
+**Deploy y organización:** Netlify · Notion · Google Apps Script
+**Aprendiendo:** React · TypeScript
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML5" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS3" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" />
+</p>
+
+## Mirai
+
+**Mirai** (未来, "futuro" en japonés) es mi estudio de invitaciones digitales. Cada invitación es una pequeña experiencia web: sobre interactivo, música, cuenta regresiva, ubicaciones, mesa de regalos, boletos personalizados y confirmación por WhatsApp.
+
+---
+
+<p align="center"><i>¿Tienes un proyecto o una vacante? Escríbeme, me encantará platicar.</i></p>
