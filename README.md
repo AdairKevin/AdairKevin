@@ -5,6 +5,7 @@
 Diseño interfaces que se sienten especiales desde el primer toque y las construyo yo mismo, del boceto al deploy. Desde mi estudio he entregado **más de 100 invitaciones web a clientes reales**: XV años, bodas, bautizos y baby showers, cada una con su propia identidad visual, animaciones y flujo de confirmación.
 
 <p>
+  <a href="https://www.linkedin.com/in/adair-maldonado-3bb1762b9/"><img src="https://img.shields.io/badge/LinkedIn-Adair_Maldonado-ACE55B?style=flat-square&logo=linkedin&logoColor=white&labelColor=141414" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/mirai.cdigital"><img src="https://img.shields.io/badge/Instagram-@mirai.cdigital-ACE55B?style=flat-square&logo=instagram&logoColor=white&labelColor=141414" alt="Instagram" /></a>
   <a href="https://www.tiktok.com/@mirai_contenidodigital"><img src="https://img.shields.io/badge/TikTok-@mirai__contenidodigital-ACE55B?style=flat-square&logo=tiktok&logoColor=white&labelColor=141414" alt="TikTok" /></a>
   <a href="https://www.facebook.com/profile.php?id=61568997140138"><img src="https://img.shields.io/badge/Facebook-Mirai-ACE55B?style=flat-square&logo=facebook&logoColor=white&labelColor=141414" alt="Facebook" /></a>
@@ -83,4 +84,4 @@ Cada proyecto tiene su propio estilo: del cuento de hadas al editorial de revist
 
 ---
 
-<p align="center"><i>¿Tienes un proyecto, un evento o una vacante? Escríbeme, me encantará platicar.</i></p>
+<p align="center"><i>¿Tienes un proyecto, un evento o una vacante? Escríbeme por <a href="https://www.linkedin.com/in/adair-maldonado-3bb1762b9/">LinkedIn</a> o <a href="https://wa.me/525582932796">WhatsApp</a>, me encantará platicar.</i></p>
