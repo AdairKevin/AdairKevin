@@ -8,13 +8,7 @@ Diseño interfaces que se sienten especiales desde el primer toque y las constru
 
 - 🎓 TSU en Sistemas Informáticos, autodidacta y en formación constante
 - 🎨 Animador digital: el movimiento es parte de cómo diseño
-- 📱 Mobile-first por convicción: mis usuarios abren todo desde el celular
 - 🧩 Me gusta pensar en sistemas: tokens de diseño, componentes y plantillas reutilizables
-- 🚀 Busco mi primer puesto como **UI/UX Designer / Front-end Developer jr**
-
-## Cómo trabajo
-
-**Investigo → diseño → construyo → entrego.** Recojo la idea del cliente, armo moodboards en Pinterest y paletas en Adobe Color, defino el sistema visual, lo programo en HTML, CSS y JavaScript, y lo publico en Netlify. Organizo cada proyecto en Notion, con fechas de entrega y estatus.
 
 ## Proyectos destacados
 
@@ -29,7 +23,7 @@ Diseño interfaces que se sienten especiales desde el primer toque y las constru
 
 ## Herramientas
 
-**Diseño:** Canva · Pinterest · Adobe Color
+**Diseño:** Canva · Adobe · Figma
 **Código:** HTML5 · CSS3 · JavaScript · VS Code · Git y GitHub
 **Deploy y organización:** Netlify · Notion · Google Apps Script
 **Aprendiendo:** React · TypeScript
@@ -50,7 +44,7 @@ Diseño interfaces que se sienten especiales desde el primer toque y las constru
 
 ## Mirai
 
-**Mirai** (未来, "futuro" en japonés) es mi estudio de invitaciones digitales. Cada invitación es una pequeña experiencia web: sobre interactivo, música, cuenta regresiva, ubicaciones, mesa de regalos, boletos personalizados y confirmación por WhatsApp.
+
 
 ---
 
