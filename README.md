@@ -17,7 +17,7 @@ Diseño interfaces que se sienten especiales desde el primer toque y las constru
 | <img src="https://raw.githubusercontent.com/AdairKevin/ModeloVogueV2/main/docs/mobile.png" width="90"> | [**Vogue XV Edition**](https://github.com/AdairKevin/ModeloVogueV2) | Dirección de arte editorial, sobre 3D interactivo, animación con `IntersectionObserver` |
 | <img src="https://raw.githubusercontent.com/AdairKevin/InvitacionBridgerton/main/docs/mobile.png" width="90"> | [**Bridgerton XV**](https://github.com/AdairKevin/InvitacionBridgerton) | Diseño temático, tema separado del layout |
 | <img src="https://raw.githubusercontent.com/AdairKevin/TemplateInvitaciones/main/docs/mobile.png" width="90"> | [**Template de Invitaciones**](https://github.com/AdairKevin/TemplateInvitaciones) | Design system con tokens y componentes reutilizables |
-| <img src="https://raw.githubusercontent.com/AdairKevin/CuponeraDigital/main/docs/mobile.png" width="90"> | [**Cuponera Digital**](https://github.com/AdairKevin/CuponeraDigital) | Flujo de UX con estados, modales accesibles y backend en Google Sheets |
+| <img src="https://raw.githubusercontent.com/AdairKevin/CuponeraDigital/main/docs/mobile.png" width="90"> |
 | <img src="https://raw.githubusercontent.com/AdairKevin/AdministradorBoletos/main/docs/mobile.png" width="90"> | [**Administrador de Invitados**](https://github.com/AdairKevin/AdministradorBoletos) | Herramienta interna: UI generada desde JSON, envío por WhatsApp |
 | <img src="https://raw.githubusercontent.com/AdairKevin/CotizadorCarpas/main/docs/mobile.png" width="90"> | [**Cotizador de Carpas**](https://github.com/AdairKevin/CotizadorCarpas) | Formulario de negocio, reglas de precios y desglose claro |
 
