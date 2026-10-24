@@ -14,11 +14,27 @@ Diseño interfaces que se sienten especiales desde el primer toque y las constru
 
 ## Sobre mí
 
-- 🎓 TSU en Sistemas Informáticos, autodidacta y en formación constante
+- 📍 Valle de Chalco, Estado de México · **Abierto a oportunidades** presenciales o híbridas
+- 🎓 TSU en Sistemas Informáticos y Técnico en Animación Digital, autodidacta y en formación constante
+- 🏅 Certificaciones de UX de Google: fundamentos de diseño de experiencia de usuario y wireframes y prototipos de baja fidelidad
 - 📱 Mobile first por oficio: casi todo lo que hago se abre por primera vez desde un link en WhatsApp
 - 🎨 Animador digital: el movimiento es parte de cómo diseño
 - 🧩 Me gusta pensar en sistemas: tokens de diseño, componentes y plantillas reutilizables
 - 🤖 Automatizo lo repetitivo: deploys, llenado de plantillas y flujos con agentes de IA
+
+## Experiencia
+
+**Fundador, diseñador y desarrollador front-end** · Mirai Contenido Digital · *actualidad*
+Diseño, desarrollo y publicación de invitaciones web y herramientas para eventos: más de 100 proyectos entregados a clientes reales.
+
+**Desarrollador front-end (prácticas)** · SAO Insurtech · *ene. 2024 a may. 2024 · remoto*
+Desarrollo de una plataforma web con Angular.
+
+## Formación
+
+- **TSU en Sistemas Informáticos** · Tecnológico Universitario del Valle de Chalco · 2021 a 2024
+- **Técnico en Animación Digital** · CECyTEM · 2017 a 2020
+- **Google UX Design** (Coursera): *Aspectos básicos del diseño de la experiencia del usuario* (2024) y *Crear esquemas de página y prototipos de baja fidelidad* (2024)
 
 ## Qué puedo hacer por ti
 
@@ -47,7 +63,7 @@ Más modelos temáticos: [Rapunzel](https://github.com/AdairKevin/ModeloRapunzel
 ## Herramientas
 
 **Diseño:** Canva · Adobe · Figma
-**Código:** HTML5 · CSS3 · JavaScript · VS Code · Git y GitHub
+**Código:** HTML5 · CSS3 · JavaScript · Angular · VS Code · Git y GitHub
 **Deploy y organización:** Netlify · Notion · Google Apps Script
 **Aprendiendo:** React · TypeScript
 
@@ -57,6 +73,8 @@ Más modelos temáticos: [Rapunzel](https://github.com/AdairKevin/ModeloRapunzel
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS3" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="36" alt="Angular" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" />
   <img width="8" />
